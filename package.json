@@ -1,0 +1,35 @@
+{
+  "name": "@bobringer/react-design-library",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "develop": "start-storybook -p 6006",
+    "build": "build-storybook"
+  },
+  "author": "Bob Obringer",
+  "private": true,
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@bobringer/eslint-config": "^1.0.6",
+    "@bobringer/prettier-config": "^1.0.2",
+    "@storybook/addon-actions": "^5.1.9",
+    "@storybook/addon-backgrounds": "^5.1.9",
+    "@storybook/addon-knobs": "^5.1.9",
+    "@storybook/addon-links": "^5.1.9",
+    "@storybook/addons": "^5.1.9",
+    "@storybook/react": "^5.1.9",
+    "babel-eslint": "^10.0.2",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.0.0",
+    "eslint": "^5.16.0",
+    "node-sass": "^4.12.0",
+    "prettier": "^1.18.2",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.1"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
