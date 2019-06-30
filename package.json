@@ -1,13 +1,12 @@
 {
   "name": "@bobringer/react-design-library",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "scripts": {
     "develop": "start-storybook -p 6006",
     "build": "build-storybook"
   },
   "author": "Bob Obringer",
-  "private": true,
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@bobringer/eslint-config": "^1.0.6",
