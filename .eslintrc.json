@@ -5,20 +5,5 @@
     "@bobringer/eslint-config/prettier",
     "prettier/babel",
     "prettier/react"
-  ],
-  "rules": {
-    "react/jsx-indent": [
-      "error",
-      4
-    ],
-    "react/jsx-sort-props": "off",
-    "react/jsx-uses-react": 1,
-    "react/jsx-uses-vars": 1,
-    "react/react-in-jsx-scope": 1,
-    "import/prefer-default-export": "off",
-    "react-perf/jsx-no-jsx-as-prop": "off",
-    "react-perf/jsx-no-new-array-as-prop": "off",
-    "react-perf/jsx-no-new-function-as-prop": "off",
-    "react-perf/jsx-no-new-object-as-prop": "off"
-  }
+  ]
 }

@@ -2,13 +2,13 @@ const FLEX_DIRECTION = {
     ROW: 'row',
     ROW_REVERSE: 'row-reverse',
     COLUMN: 'column',
-    COLUMN_REVERSE: 'column-reverse'
+    COLUMN_REVERSE: 'column-reverse',
 };
 
 const FLEX_WRAP = {
     NOWRAP: 'nowrap',
     WRAP: 'wrap',
-    WRAP_REVERSE: 'wrap-reverse'
+    WRAP_REVERSE: 'wrap-reverse',
 };
 
 const ALIGN_ITEMS = {
@@ -16,7 +16,7 @@ const ALIGN_ITEMS = {
     FLEX_START: 'flex-start',
     FLEX_END: 'flex-end',
     CENTER: 'center',
-    BASELINE: 'baseline'
+    BASELINE: 'baseline',
 };
 
 const contentConstants = {
@@ -25,7 +25,7 @@ const contentConstants = {
     CENTER: 'center',
     SPACE_AROUND: 'space-around',
     SPACE_BETWEEN: 'space-between',
-    SPACE_EVENLY: 'space-evenly'
+    SPACE_EVENLY: 'space-evenly',
 };
 
 const JUSTIFY_CONTENT = contentConstants;
@@ -36,5 +36,5 @@ export {
     ALIGN_ITEMS,
     ALIGN_CONTENT,
     JUSTIFY_CONTENT,
-    FLEX_WRAP
+    FLEX_WRAP,
 };

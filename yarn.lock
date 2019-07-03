@@ -923,10 +923,10 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
-"@bobringer/eslint-config@^1.0.6":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@bobringer/eslint-config/-/eslint-config-1.0.6.tgz#d49625c45982490e87c25ca29efe56c0fa583430"
-  integrity sha512-7I5yj+BTUd6+ISodqFPFteZj6UpQWi2UZ1uwSFXlbQukgBj3LQ2qDWdlXA19fEqq7cFHDdHjd660tUwIhlwyqw==
+"@bobringer/eslint-config@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@bobringer/eslint-config/-/eslint-config-1.1.0.tgz#d7e483ed97e56d7c5f3f9a51a3fd5b007dcf3d4c"
+  integrity sha512-c86qRvK3gNkMfTyqrl33eI+pbztW0nFmXC6K+pQSogX5f9cuK4AbuZj+4QxKcQXDDRXa3JGoHLTWbHzdHRYzDA==
   dependencies:
     eslint-config-airbnb "^17.1.0"
     eslint-config-prettier "^6.0.0"
@@ -936,12 +936,11 @@
     eslint-plugin-prettier "^3.1.0"
     eslint-plugin-react "^7.14.2"
     eslint-plugin-react-hooks "^1.6.0"
-    eslint-plugin-react-perf "^3.2.0"
 
-"@bobringer/prettier-config@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@bobringer/prettier-config/-/prettier-config-1.0.2.tgz#fcbcb3888a1da8597d1e1c0875522b542a88b7ac"
-  integrity sha512-iLs+iPPbHM63yJJdJx8QBwEiD0n+8oQpUFDErct5xkb5gV3vBea7KZiA77uPx7ek39RMEbPJEREKjoxjc1ZGpQ==
+"@bobringer/prettier-config@^1.32.0":
+  version "1.32.0"
+  resolved "https://registry.yarnpkg.com/@bobringer/prettier-config/-/prettier-config-1.32.0.tgz#1bfe87c04b454fa0ec6bda9fbb278c872be2c909"
+  integrity sha512-m8CCSvTBSxMHuXJHoGhXYrJXwZ3NGB4xntZJOSEbXk8wMgGUPRZDgu69AvvGLlXLwTgTkX+Im53maBl9ejWpyQ==
 
 "@emotion/babel-utils@^0.6.4":
   version "0.6.10"
@@ -3998,11 +3997,6 @@ eslint-plugin-react-hooks@^1.6.0:
   version "1.6.1"
   resolved "https://registry.yarnpkg.com/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-1.6.1.tgz#3c66a5515ea3e0a221ffc5d4e75c971c217b1a4c"
   integrity sha512-wHhmGJyVuijnYIJXZJHDUF2WM+rJYTjulUTqF9k61d3BTk8etydz+M4dXUVH7M76ZRS85rqBTCx0Es/lLsrjnA==
-
-eslint-plugin-react-perf@^3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-react-perf/-/eslint-plugin-react-perf-3.2.0.tgz#b62c72f2aed0ee60eb5b3302c81fb1771a349e37"
-  integrity sha512-PnAsJPwCmoI4CBtF/Uk0v1dN4zvpWC3fO5BzG9O+q/c+6hXv9cFzgXht+CJzZaC61VuYBpjWdOs9ksBN6Py1iw==
 
 eslint-plugin-react@^7.14.2:
   version "7.14.2"

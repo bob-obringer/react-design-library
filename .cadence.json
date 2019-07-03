@@ -1,0 +1,7 @@
+{
+  "name": "React Design Library",
+  "containers": [{
+    "type": "flexbox",
+    "component": "layout/FlexBox"
+  }]
+}

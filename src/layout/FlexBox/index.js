@@ -28,11 +28,7 @@ const FlexBox = ({
         ...style,
     };
 
-    return (
-        <div display="flex" style={divStyle}>
-            {children}
-        </div>
-    );
+    return <div style={divStyle}>{children}</div>;
 };
 
 FlexBox.propTypes = {

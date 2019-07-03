@@ -7,10 +7,11 @@
     "build": "build-storybook"
   },
   "author": "Bob Obringer",
+  "prettier": "@bobringer/prettier-config",
   "devDependencies": {
     "@babel/core": "^7.4.5",
-    "@bobringer/eslint-config": "^1.0.6",
-    "@bobringer/prettier-config": "^1.0.2",
+    "@bobringer/eslint-config": "^1.1.0",
+    "@bobringer/prettier-config": "^1.32.0",
     "@storybook/addon-actions": "^5.1.9",
     "@storybook/addon-backgrounds": "^5.1.9",
     "@storybook/addon-knobs": "^5.1.9",
